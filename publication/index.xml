@@ -6,28 +6,55 @@
     <description>Recent content in Publications on Dan Amrhein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="amrhein.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>amrhein.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>A synthesis of deglacial deep-sea radiocarbon records and a test of their (in)consistency with modern ocean circulation</title>
+      <link>amrhein.github.io/publication/zhao_et_al_2013/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>amrhein.github.io/publication/zhao_et_al_2013/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Connecting ocean tracer measurements to global climate</title>
-      <link>amrhein.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Inferring surface water equilibrium calcite δ18O during the last deglacial period from benthic foraminiferal δ18O records: Implications for ocean circulation</title>
+      <link>amrhein.github.io/publication/amrhein_et_al_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>amrhein.github.io/publication/amrhein_et_al_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Observations of Forma- tion and Propagation of Subpolar Eddies into the Subtropical North Atlantic</title>
+      <link>amrhein.github.io/publication/bower_et_al_2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/bower_et_al_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Comment on &#39;Erroneous Model Field Representations in Multiple Pseudoproxy Studies: Corrections and Implications&#39;</title>
+      <link>amrhein.github.io/publication/smerdon_et_al_2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/smerdon_et_al_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erroneous Model Field Representations in Multiple Pseudoproxy Studies: Corrections and Implications</title>
+      <link>amrhein.github.io/publication/smerdon_et_al_2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/smerdon_et_al_2010/</guid>
+      <description></description>
     </item>
     
   </channel>

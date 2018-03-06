@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Dan Amrhein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="amrhein.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,11 +27,12 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>amrhein.github.io/home/about/</guid>
-      <description>My research combines numerical models and observations of the natural world to learn about Earth&amp;rsquo;s oceans and climate in the present, future, and geologic past.</description>
+      <description>My research combines numerical models and observations of the natural world to learn about Earth&amp;rsquo;s oceans and climate in the present, future, and geologic past.
+Download my CV </description>
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Publications</title>
       <link>amrhein.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
@@ -40,7 +41,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>amrhein.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
