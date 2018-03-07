@@ -27,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>amrhein.github.io/home/about/</guid>
-      <description>My research combines numerical models and observations of the natural world to learn about Earth&amp;rsquo;s oceans and climate in the present, future, and geologic past.
-Download my CV </description>
+      <description>How can we predict the evolution of Earth&amp;rsquo;s oceans and climate on time scales longer than humans have ever observed? Studying how geophysical, chemical, and biological processes conspired to trace out Earth’s climate past helps us understand modern ocean and climate dynamics, human evolution, and conditions on other worlds.
+My research combines numerical models and observations of the natural world to learn about the dynamics Earth&amp;rsquo;s oceans and climate in the present, future, and geologic past.</description>
     </item>
     
     <item>
@@ -37,6 +37,15 @@ Download my CV </description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>amrhein.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications submitted and in preparation</title>
+      <link>amrhein.github.io/home/publications_inprep/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>amrhein.github.io/home/publications_inprep/</guid>
       <description></description>
     </item>
     

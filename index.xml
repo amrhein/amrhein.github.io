@@ -11,11 +11,101 @@
     <atom:link href="amrhein.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Connecting ocean tracers to global climate</title>
+      <link>amrhein.github.io/project/connecting_tracers/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/connecting_tracers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring the glacial ocean state from models &#43; data</title>
+      <link>amrhein.github.io/project/lgm_phys/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/lgm_phys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Atlantic Ocean heat content over the last 1000 years</title>
+      <link>amrhein.github.io/project/lm/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal and noise in paleoclimate records</title>
+      <link>amrhein.github.io/project/errors/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for accelerating tracer simulations</title>
+      <link>amrhein.github.io/project/fast_eq/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/fast_eq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global glacial ocean state estimate constrained by upper-ocean temperature proxies</title>
+      <link>amrhein.github.io/publication/amrhein_et_al_2018/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/amrhein_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of the Role of AMOC Variability in Atlantic Multidecadal Vari- ability and Associated Climate Impacts</title>
+      <link>amrhein.github.io/publication/zhang_et_al_2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/zhang_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical controls on the depth of the boundary between bottom and deep waters in the Last Glacial Maximum Atlantic</title>
+      <link>amrhein.github.io/publication/amrhein_et_al_tracers/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/amrhein_et_al_tracers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Proxy Influence in the Last Millennium Reanalysis</title>
+      <link>amrhein.github.io/publication/hakim_et_al_2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/hakim_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying uncertainties due to discontinuous sampling of paleoclimate records</title>
+      <link>amrhein.github.io/publication/amrhein_2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/publication/amrhein_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A synthesis of deglacial deep-sea radiocarbon records and a test of their (in)consistency with modern ocean circulation</title>
-      <link>amrhein.github.io/publication/zhao_et_al_2013/</link>
+      <link>amrhein.github.io/publication/zhao_et_al_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/publication/zhao_et_al_2013/</guid>
+      <guid>amrhein.github.io/publication/zhao_et_al_2018/</guid>
       <description></description>
     </item>
     
@@ -31,10 +121,10 @@
     
     <item>
       <title>Deep Learning</title>
-      <link>amrhein.github.io/project/deep-learning/</link>
+      <link>amrhein.github.io/project_example/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project/deep-learning/</guid>
+      <guid>amrhein.github.io/project_example/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -49,10 +139,10 @@
     
     <item>
       <title>External Project</title>
-      <link>amrhein.github.io/project/example-external-project/</link>
+      <link>amrhein.github.io/project_example/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project/example-external-project/</guid>
+      <guid>amrhein.github.io/project_example/example-external-project/</guid>
       <description></description>
     </item>
     
@@ -242,62 +332,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>amrhein.github.io/publication_example/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication_example/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inferring surface water equilibrium calcite δ18O during the last deglacial period from benthic foraminiferal δ18O records: Implications for ocean circulation</title>
-      <link>amrhein.github.io/publication/amrhein_et_al_2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication/amrhein_et_al_2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connecting ocean tracer measurements to global climate</title>
-      <link>amrhein.github.io/publication_example/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication_example/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Direct Observations of Forma- tion and Propagation of Subpolar Eddies into the Subtropical North Atlantic</title>
-      <link>amrhein.github.io/publication/bower_et_al_2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication/bower_et_al_2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reply to Comment on &#39;Erroneous Model Field Representations in Multiple Pseudoproxy Studies: Corrections and Implications&#39;</title>
-      <link>amrhein.github.io/publication/smerdon_et_al_2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication/smerdon_et_al_2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erroneous Model Field Representations in Multiple Pseudoproxy Studies: Corrections and Implications</title>
-      <link>amrhein.github.io/publication/smerdon_et_al_2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>amrhein.github.io/publication/smerdon_et_al_2010/</guid>
-      <description></description>
     </item>
     
   </channel>

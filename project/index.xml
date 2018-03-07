@@ -7,26 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="amrhein.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>amrhein.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Connecting ocean tracers to global climate</title>
+      <link>amrhein.github.io/project/connecting_tracers/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>amrhein.github.io/project/connecting_tracers/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>amrhein.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Inferring the glacial ocean state from models &#43; data</title>
+      <link>amrhein.github.io/project/lgm_phys/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project/example-external-project/</guid>
+      <guid>amrhein.github.io/project/lgm_phys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Atlantic Ocean heat content over the last 1000 years</title>
+      <link>amrhein.github.io/project/lm/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal and noise in paleoclimate records</title>
+      <link>amrhein.github.io/project/errors/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for accelerating tracer simulations</title>
+      <link>amrhein.github.io/project/fast_eq/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>amrhein.github.io/project/fast_eq/</guid>
       <description></description>
     </item>
     
