@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project_examples on Dan Amrhein</title>
-    <link>amrhein.github.io/project_example/</link>
+    <link>/project_example/</link>
     <description>Recent content in Project_examples on Dan Amrhein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="amrhein.github.io/project_example/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project_example/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>amrhein.github.io/project_example/deep-learning/</link>
+      <link>/project_example/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project_example/deep-learning/</guid>
+      <guid>/project_example/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>amrhein.github.io/project_example/example-external-project/</link>
+      <link>/project_example/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>amrhein.github.io/project_example/example-external-project/</guid>
+      <guid>/project_example/example-external-project/</guid>
       <description></description>
     </item>
     
