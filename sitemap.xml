@@ -104,24 +104,6 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -131,62 +113,8 @@
     
     <url>
     
-      <loc>/publication_example/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project_example/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project_example/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/amrhein_phd_thesis/</loc>
       <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_example/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -205,15 +133,6 @@
     
       <loc>/publication/amrhein_ms_thesis/</loc>
       <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_example/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -248,16 +167,6 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -270,16 +179,6 @@
     
       <loc>/publication_types/3/</loc>
       <lastmod>2018-02-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -307,36 +206,6 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project_example/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2018-03-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -348,7 +217,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,7 +227,6 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
