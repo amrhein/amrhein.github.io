@@ -6,11 +6,29 @@
     <description>Recent content in Publications on Dan Amrhein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
+    <copyright>&amp;copy; 2020. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simiple methods for accelerating and extrapolating tracer equilibration in numerical ocean models</title>
+      <link>/publication/amrhein_thompson_2018/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/amrhein_thompson_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating nullspace uncertainty in paleoclimate reconstructions with an application to the last millennium</title>
+      <link>/publication/amrhein_hakim_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/amrhein_hakim_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A global glacial ocean state estimate constrained by upper-ocean temperature proxies</title>
