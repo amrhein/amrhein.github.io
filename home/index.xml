@@ -114,5 +114,14 @@ I am a teaching instructor for the following courses at University X:
       <description></description>
     </item>
     
+    <item>
+      <title>Opportunities @ NCAR</title>
+      <link>/home/opportunities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/opportunities/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
