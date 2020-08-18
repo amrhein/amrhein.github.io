@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opportunities on Dan Amrhein</title>
+    <link>/opportunities/</link>
+    <description>Recent content in Opportunities on Dan Amrhein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. Header image: Frederic Edwin Church, *Aurora Borealis*, 1865</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/opportunities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opportunities @ NCAR</title>
+      <link>/opportunities/opportunities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/opportunities/opportunities/</guid>
+      <description>Testing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/opportunities/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/opportunities/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+  </channel>
+</rss>
